@@ -5,7 +5,8 @@ IoT Engineer
 ------------
 
 Currently, I am a special instructor in the Department of Computer Engineering. Sripatum University teaches basic programming and IoT Technology (PCB, Firmware Programming, Wireless communication, Platform). and works in the R&D team as an IoT Developer at Triple Tech Expert Co., Ltd. Also designed and developed a mobile app for meeting room booking for SCG.
-*   🔭 I’m currently working as a Special Instructor at Sripatum University
+*   🔐  My Repositories are Private!!!
+*   🔭  I’m currently working as a Special Instructor at Sripatum University
 *   🌍  I'm based in Bangkok
 *   🖥️  See my portfolio at [My Portfolio](http://github.com/Twilightxc)
 *   🧠  I'm learning AI & ML
