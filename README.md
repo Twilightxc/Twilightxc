@@ -1,4 +1,4 @@
-Hello World ![](🤖)
+Hello World ![](<img src="https://twemoji.maxcdn.com/v/latest/svg/1f916.svg" width="50px">)
 ================================================================================================================================
 
 IoT Engineer
