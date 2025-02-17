@@ -1,4 +1,4 @@
-Hello World <img src="https://twemoji.maxcdn.com/v/latest/svg/1f916.svg" width="50px">
+Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ================================================================================================================================
 
